@@ -2,7 +2,7 @@ export const translations = {
   am: {
     title: "Games Zone Ethopia",
     subtitle: "📖 የጨዋታው መመሪያ እና ደንቦች",
-    cardHeader: "ቢንጎ ሀበሻ – የተጠቃሚ መመሪያ እና የስምምነት ውል",
+    cardHeader: "Games Zone Ethopia – የተጠቃሚ መመሪያ እና የስምምነት ውል",
     welcomeText: "እንኳን ወደ ቢንጎ ሀበሻ ቤተሰብ በደህና መጡ! መሳተፍዎ እና ደህንነትዎ ቅድሚያ የምንሰጣቸው ጉዳዮች ናቸው። ጨዋታ ከመጀመርዎ በፊት እነዚህን መመሪያዎች በጥንቃቄ አንብበው እንዲከተሉ በጥብቅ እንጠይቃለን።",
     winningTitle: "🏆 ማሸነፊያ መንገዶች",
     winningSub: "ከታች ባሉት አራት ቅርጾች መሰረት ከተመቱት ቁጥሮች አምስቱን አግኝተው BINGO ብለው ይሸነፋሉ!",
@@ -32,9 +32,9 @@ export const translations = {
     ]
   },
   om: {
-    title: "Bingo Habesha",
+    title: "Games Zone Ethopia",
     subtitle: "📖 Qajeelfama fi Seera Taphaa",
-    cardHeader: "Bingo Habesha – Qajeelfama Fayyadamaa fi Waliigaltee",
+    cardHeader: "Games Zone Ethopia – Qajeelfama Fayyadamaa fi Waliigaltee",
     welcomeText: "Baga gara maatii Bingo Habeshaatti nagaan dhuftan! Hirmaannaan fi meeshaan keessan dhiyeessii ragaa jalqabaati. Taphachuu utuu hin jalqabiin qajeelfama kana obsaan dubbisaa.",
     winningTitle: "🏆 Formaatota Mo'ichaa",
     winningSub: "Bakkoota afraan gadii keessaa lakkoofsota 5 argachuun BINGO jedhaa mo'adhaa!",
@@ -64,10 +64,10 @@ export const translations = {
     ]
   },
   so: {
-    title: "Bingo Habesha",
+    title: "Games Zone Ethopia",
     subtitle: "📖 Xeerarka iyo Tusaalaha Cayaarta",
-    cardHeader: "Bingo Habesha – Tusmada Isticmaalka iyo Heshiiska",
-    welcomeText: "Ku soo dhawoaw qoyska Bingo Habesha! KaParticipation-kaaga iyo ammaan kaaga waa muhiimadeena kowaad. Fadlan si xeel dheer u akhriso shuruucdan ka hor inta aadan cayaarta bilaabin.",
+    cardHeader: "Games Zone Ethopia – Tusmada Isticmaalka iyo Heshiiska",
+    welcomeText: "Ku soo dhawoaw qoyska Games Zone Ethopia! KaParticipation-kaaga iyo ammaan kaaga waa muhiimadeena kowaad. Fadlan si xeel dheer u akhriso shuruucdan ka hor inta aadan cayaarta bilaabin.",
     winningTitle: "🏆 Jidadka Guusha",
     winningSub: "Haddii aad hesho 5 lambar oo ka mid ah qaababka hoose, dheh BINGO si aad u guulaysato!",
     backBtn: "Kudhadhac Nyuma",
@@ -96,10 +96,10 @@ export const translations = {
     ]
   },
   en: {
-    title: "Bingo Habesha",
+    title: "Games Zone Ethopia",
     subtitle: "📖 Rules & Game Instructions",
-    cardHeader: "Bingo Habesha – User Guide & Agreement",
-    welcomeText: "Welcome to the Bingo Habesha family! Your safety and entertainment are our priorities. Please read these instructions carefully before playing.",
+    cardHeader: "Games Zone Ethopia – User Guide & Agreement",
+    welcomeText: "Welcome to the Games Zone Ethopia family! Your safety and entertainment are our priorities. Please read these instructions carefully before playing.",
     winningTitle: "🏆 Winning Patterns",
     winningSub: "Match 5 numbers according to the patterns below and call BINGO to win!",
     backBtn: "Go Back",
