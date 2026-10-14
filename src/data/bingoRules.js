@@ -3,16 +3,16 @@ export const translations = {
     title: "Games Zone Ethopia",
     subtitle: "📖 የጨዋታው መመሪያ እና ደንቦች",
     cardHeader: "Games Zone Ethopia – የተጠቃሚ መመሪያ እና የስምምነት ውል",
-    welcomeText: "እንኳን ወደ ቢንጎ ሀበሻ ቤተሰብ በደህና መጡ! መሳተፍዎ እና ደህንነትዎ ቅድሚያ የምንሰጣቸው ጉዳዮች ናቸው። ጨዋታ ከመጀመርዎ በፊት እነዚህን መመሪያዎች በጥንቃቄ አንብበው እንዲከተሉ በጥብቅ እንጠይቃለን።",
+    welcomeText: "እንኳን ወደ Games Zone Ethopia ቤተሰብ በደህና መጡ! መሳተፍዎ እና ደህንነትዎ ቅድሚያ የምንሰጣቸው ጉዳዮች ናቸው። ጨዋታ ከመጀመርዎ በፊት እነዚህን መመሪያዎች በጥንቃቄ አንብበው እንዲከተሉ በጥብቅ እንጠይቃለን።",
     winningTitle: "🏆 ማሸነፊያ መንገዶች",
     winningSub: "ከታች ባሉት አራት ቅርጾች መሰረት ከተመቱት ቁጥሮች አምስቱን አግኝተው BINGO ብለው ይሸነፋሉ!",
     backBtn: "ወደ ኋላ ተመለስ",
-    systemNotice: "💡 ሲስተሙ ራስን አሸናፊ ስለሚለይ ምንም መጥራት አይጠበቅብዎትም!",
+    systemNotice: "💡 ሲስተሙ ራስን አሸናፊ ስለሚለይ ምንምጥራት ይጠበቅብዎትም!",
     generalRules: [
       {
         title: "1. የጨዋታው ባህሪ እና አሠራር",
         points: [
-          "ሙሉ በሙሉ የዕድል ጨዋታ:- ቢንጎ ሐበሻ ውጤቶች ሙሉ በሙሉ በዕድል እና በመድል ይወሰናሉ። ስለዚህ ማንኛውንም ክስተት ሊያስገኙ ቀድሞ ወይም አስቀድሞ የተወሰነ ውጤት የለም።",
+          "ሙሉ በሙሉ የዕድል ጨዋታ:- Games Zone Ethopia ውጤቶች ሙሉ በሙሉ በዕድል እና በመድል ይወሰናሉ። ስለዚህ ማንኛውንም ክስተት ሊያስገኙ ቀድሞ ወይም አስቀድሞ የተወሰነ ውጤት የለም።",
           "እያንዳንዱ ዙር ለብቻው ነው።:- እያንዳንዱ ዙር ሙሉ በሙሉ የተለየ ክስተት ነው፤ ካለፉት ጨዋታዎች ጋር ቀጥተኛ ግንኙነት የለውም።",
           "ለመዝናኛ ብቻ:- ይህ መድረክ የተዘጋጀው በትርፍ ጊዜ ለመዝናኛ እና ለማለፍ ብቻ ነው።"
         ]
@@ -20,7 +20,7 @@ export const translations = {
       {
         title: "2. የአካውንት እና የክፍያ አስተዳደር",
         points: [
-          "ተመለስ የማይደረግ ገቢ:- ወደ ቢንጎ ሐበሻ አካውንት የተገባ ማንኛውም ገንዘብ በቀጥታ ለጨዋታ ተሳትፎ የተመደበ ነው።"
+          "ተመለስ የማይደረግ ገቢ:- ወደ Games Zone Ethopia አካውንት የተገባ ማንኛውም ገንዘብ በቀጥታ ለጨዋታ ተሳትፎ የተመደበ ነው።"
         ]
       }
     ],
@@ -35,7 +35,7 @@ export const translations = {
     title: "Games Zone Ethopia",
     subtitle: "📖 Qajeelfama fi Seera Taphaa",
     cardHeader: "Games Zone Ethopia – Qajeelfama Fayyadamaa fi Waliigaltee",
-    welcomeText: "Baga gara maatii Bingo Habeshaatti nagaan dhuftan! Hirmaannaan fi meeshaan keessan dhiyeessii ragaa jalqabaati. Taphachuu utuu hin jalqabiin qajeelfama kana obsaan dubbisaa.",
+    welcomeText: "Baga gara maatii Games Zone Ethopiaatti nagaan dhuftan! Hirmaannaan fi meeshaan keessan dhiyeessii ragaa jalqabaati. Taphachuu utuu hin jalqabiin qajeelfama kana obsaan dubbisaa.",
     winningTitle: "🏆 Formaatota Mo'ichaa",
     winningSub: "Bakkoota afraan gadii keessaa lakkoofsota 5 argachuun BINGO jedhaa mo'adhaa!",
     backBtn: "Gara Duubatti Deebi'i",
@@ -44,7 +44,7 @@ export const translations = {
       {
         title: "1. Amaloota fi Adeemsa Taphaa",
         points: [
-          "Guutummatti Tapha Carraati:- Bu'aan Bingo Habesha guutummatti carraa irratti hundaa'a. Kanaaf bu'aan dursee murtaa'e hin jiru.",
+          "Guutummatti Tapha Carraati:- Bu'aan Games Zone Ethopia guutummatti carraa irratti hundaa'a. Kanaaf bu'aan dursee murtaa'e hin jiru.",
           "Marsaa Hundumtuu Adda:- Marsaan dhuunfaa tokko tokko immoo murtoo mataa isaa qaba; taphoota darbaniin walitti dhufeenya hin qabu.",
           "Bashannanaaf Qofa:- Madaalliin kun yeroo boqonnaatti bashannanaaf qofa qophaawwaa."
         ]
@@ -52,7 +52,7 @@ export const translations = {
       {
         title: "2. Bulchiinsa Lakkoofsa fi Kaffaltii",
         points: [
-          "Kaffaltii Deebi'ee Hin Kaffalamne:- Qarshiin gara akkaawuntii Bingo Habeshaatti galmaa'e taphaaf qofa kan oolu ta'a."
+          "Kaffaltii Deebi'ee Hin Kaffalamne:- Qarshiin gara akkaawuntii Games Zone Ethopiaatti galmaa'e taphaaf qofa kan oolu ta'a."
         ]
       }
     ],
@@ -76,7 +76,7 @@ export const translations = {
       {
         title: "1. Dabeecadda iyo Qaabka Cayaarta",
         points: [
-          "Cayaar Fursad ah:- Natiijooyinka Bingo Habesha waxay gabi ahaanba ku xiran yihiin fursad.",
+          "Cayaar Fursad ah:- Natiijooyinka Games Zone Ethopia waxay gabi ahaanba ku xiran yihiin fursad.",
           "Wareeg Kasta Waa Gooni:- Wareeg kasta waa dhacdo gooni ah, xiriir la ma laha cayaaraha hore.",
           "Keliya Madadaalo:- Madashan waxaa loogu talagalay madadaalo waqtiga firaaqada ah."
         ]
@@ -84,7 +84,7 @@ export const translations = {
       {
         title: "2. Maamulka Koontada iyo Bixinta",
         points: [
-          "Lacagta Ma Soo Noqoneyso:- Lacag kasta oo ku dhacda koontada Bingo Habesha waxaa loogu talagalay cayaarta oo kaliya."
+          "Lacagta Ma Soo Noqoneyso:- Lacag kasta oo ku dhacda koontada Games Zone Ethopia waxaa loogu talagalay cayaarta oo kaliya."
         ]
       }
     ],
@@ -108,7 +108,7 @@ export const translations = {
       {
         title: "1. Game Nature & Fair Play",
         points: [
-          "100% Game of Chance:- Bingo Habesha outcomes are entirely based on luck. Outcomes are not predetermined.",
+          "100% Game of Chance:- Games Zone Ethopia outcomes are entirely based on luck. Outcomes are not predetermined.",
           "Independent Rounds:- Every round is completely independent of past games.",
           "For Entertainment Only:- This platform is designed solely for leisure and fun."
         ]
@@ -116,7 +116,7 @@ export const translations = {
       {
         title: "2. Account & Payment Policy",
         points: [
-          "Non-Refundable Deposits:- Any money deposited into Bingo Habesha is non-refundable once allocated to play."
+          "Non-Refundable Deposits:- Any money deposited into Games Zone Ethopia is non-refundable once allocated to play."
         ]
       }
     ],
