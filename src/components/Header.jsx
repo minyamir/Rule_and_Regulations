@@ -9,7 +9,7 @@ export default function Header({ currentLang, onLanguageChange }) {
           <X className="w-5 h-5 text-slate-300" />
         </button>
         <span className="font-bold tracking-wider text-sm sm:text-base">
-          BINGO HABESHA
+        Games Zone Ethopia
         </span>
       </div>
 
